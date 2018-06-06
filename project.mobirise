@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Angutech Result portal",
-    "currentPage": "index.html",
+    "currentPage": "resultpage1212.html",
     "versionFirst": "4.0.14",
     "uniqCompNum": 40,
     "versionPublish": "4.7.7",
@@ -39,7 +39,11 @@
     "siteFonts": [],
     "favicon": "@PROJECT_PATH@/assets/images/adobe-twozik-logo-128x122.png",
     "noImageResize": "",
-    "siteUrl": "undefined"
+    "siteUrl": "http://twozik.tk",
+    "sitemapSwitcherAuto": "on",
+    "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n",
+    "robotsSwitcher": "on",
+    "sitemapSwitcher": "on"
   },
   "pages": {
     "index.html": {
@@ -280,7 +284,7 @@
         }
       ]
     },
-    "page1.html": {
+    "resultpage1212.html": {
       "settings": {
         "meta_descr": "Site Builder Description",
         "title": "Result page&nbsp;",
@@ -546,7 +550,7 @@
         }
       ]
     },
-    "page2.html": {
+    "securitypage1214.html": {
       "settings": {
         "meta_descr": "Web Builder Description",
         "title": "Security Page",
